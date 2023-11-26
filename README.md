@@ -6,13 +6,12 @@ Latest release available [here](https://github.com/TheForgottened/santander-meal
 
 ## Table of Contents
 
-- [Santander Meal :apple:](#santander-meal-apple)
-  - [Table of Contents](#table-of-contents)
-  - [Screenshots](#screenshots)
-  - [What It Does](#what-it-does)
-  - [How To Use](#how-to-use)
-  - [How to Build](#how-to-build)
-  - [Honorable Mentions](#honorable-mentions)
+- [Table of Contents](#table-of-contents)
+- [Screenshots](#screenshots)
+- [What It Does](#what-it-does)
+- [How To Use](#how-to-use)
+- [How to Build](#how-to-build)
+- [Honorable Mentions](#honorable-mentions)
 
 ## Screenshots
 
